@@ -1,0 +1,137 @@
+0
+A.C.F._Fiorentina
+article :  A.C.F._Fiorentina simple_article_length :  8
+1
+A1_Grand_Prix
+article :  A1_Grand_Prix simple_article_length :  31
+2
+AAC
+article :  AAC simple_article_length :  33
+3
+A_major
+article :  A_major simple_article_length :  14
+4
+Aboriginal_land_rights_in_Australia
+article :  Aboriginal_land_rights_in_Australia standard_article_length :  26
+5
+Absolute_zero
+article :  Absolute_zero simple_article_length :  15
+6
+Academy_Award_for_Best_Picture_(1930s)
+article :  Academy_Award_for_Best_Picture_(1930s) standard_article_length :  54
+7
+Academy_Award_for_Best_Picture_(1950s)
+article :  Academy_Award_for_Best_Picture_(1950s) simple_article_length :  53
+8
+Accent
+article :  Accent simple_article_length :  15
+9
+Accession_of_Romania_to_the_European_Union
+article :  Accession_of_Romania_to_the_European_Union simple_article_length :  6
+10
+Acherontia_atropos
+article :  Acherontia_atropos standard_article_length :  46
+11
+Actor
+article :  Actor simple_article_length :  30
+12
+Adolf_von_Henselt
+article :  Adolf_von_Henselt simple_article_length :  8
+13
+Adrian_Lowe
+article :  Adrian_Lowe standard_article_length :  2
+14
+Advaita_Vedanta
+article :  Advaita_Vedanta simple_article_length :  19
+15
+Aegyptosaurus
+article :  Aegyptosaurus standard_article_length :  9
+16
+Aemilianus
+article :  Aemilianus simple_article_length :  8
+17
+Aerospace_engineering
+article :  Aerospace_engineering simple_article_length :  7
+18
+African_elephant
+article :  African_elephant simple_article_length :  29
+19
+Agathis
+article :  Agathis simple_article_length :  11
+20
+Akilattirattu_Ammanai
+article :  Akilattirattu_Ammanai simple_article_length :  14
+21
+Alchemy
+article :  Alchemy simple_article_length :  20
+22
+Alcina
+article :  Alcina simple_article_length :  25
+23
+Aldeburgh_Festival
+article :  Aldeburgh_Festival simple_article_length :  23
+24
+Alex_Chernov
+article :  Alex_Chernov simple_article_length :  18
+25
+Alexander_the_Great
+article :  Alexander_the_Great simple_article_length :  13
+26
+All_For_Latvia!
+article :  All_For_Latvia! simple_article_length :  10
+27
+Alphonse_Mucha
+article :  Alphonse_Mucha simple_article_length :  17
+28
+American_Lacrosse_Conference
+article :  American_Lacrosse_Conference standard_article_length :  8
+29
+American_basketball_at_the_Olympics
+article :  American_basketball_at_the_Olympics simple_article_length :  19
+30
+Andrew_Huxley
+article :  Andrew_Huxley simple_article_length :  11
+31
+Angers
+article :  Angers simple_article_length :  25
+32
+Anniston,_Alabama
+article :  Anniston,_Alabama simple_article_length :  5
+33
+Anthony_Wagner
+article :  Anthony_Wagner simple_article_length :  6
+34
+Aquarius_(sports_drink)
+article :  Aquarius_(sports_drink) simple_article_length :  6
+35
+Archivist
+article :  Archivist simple_article_length :  6
+36
+Armed_Forces_of_the_Russian_Federation
+article :  Armed_Forces_of_the_Russian_Federation simple_article_length :  13
+37
+Arovell_Verlag
+article :  Arovell_Verlag standard_article_length :  12
+38
+Arrangement_(music)
+article :  Arrangement_(music) simple_article_length :  31
+39
+Arsenic_triiodide
+article :  Arsenic_triiodide standard_article_length :  8
+40
+Ashley_Tisdale
+article :  Ashley_Tisdale simple_article_length :  16
+41
+Ashtown_Castle
+article :  Ashtown_Castle standard_article_length :  8
+42
+Aspen
+article :  Aspen simple_article_length :  19
+43
+Atrax
+article :  Atrax simple_article_length :  8
+44
+Australia_national_football_team
+article :  Australia_national_football_team simple_article_length :  41
+45
+total :  806

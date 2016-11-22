@@ -1,0 +1,33 @@
+AAC is a file format for storing music or other sounds .
+It stands for Advanced Audio Coding or Advanced Audio Codec .
+It is used by Apple Inc. in the iPod and iTunes .
+AAC is one of the standard formats that comes from the MPEG organization , the same people who invented MP3 .
+There are several flavors of AAC .
+These are the most popular : AAC LC-the format used by Apple software ; it takes up more space and is used for music stored on an iPod , CD-ROM , or disk drive .
+HE-AAC v1-a more efficient format ; it saves space for music sent over a network , like over the Internet or to a cell phone .
+Brand names for this format include aacPlus ™ , Nero Digital ™ , and AAC + .
+HE-AAC v2-an even more efficient format for music sent over a network .
+Brand names for this format include aacPlus ™ v2 , eAAC + ™ , and AAC + Enhanced ™ .
+Here are some common AAC file name endings : .
+aac-music only .
+.
+m4a-music and information .
+.
+m4p-music and information , with DRM .
+.
+m4b-speech and information , `` Audiobook '' recognized by Apple that keeps the listener 's position .
+.
+m4r-music and information used by Apple as a ringtone .
+.
+mp4-music , video , or both , plus information .
+An AAC file that has only music and information could have a name that ends with either .
+m4a or .
+mp4 .
+A KDE\/Qt application for Linux\/Unix called easytag will edit metadata about AAC-encoded files as long as they end with the .
+m4a extension .
+Typically , renaming file files to .
+m4a and back to the original extension after editing is sufficient .
+This method can be used to configure typical ID3v2 metadata including cover art .
+This cover art is used by Apple 's iTunes and their media players .
+Note that easytag does not have the ability to add chapter points into Audiobooks ( .
+m4b ) .

@@ -1,0 +1,137 @@
+flushing to file ... A.C.F._Fiorentina  count_per_article :  936
+all :  936
+simple :  117 stand :  8
+flushing to file ... A1_Grand_Prix  count_per_article :  1829
+all :  2765
+simple :  59 stand :  31
+flushing to file ... AAC  count_per_article :  5049
+all :  7814
+simple :  153 stand :  29
+flushing to file ... A_major  count_per_article :  224
+all :  8038
+simple :  16 stand :  14
+flushing to file ... Aboriginal_land_rights_in_Australia  count_per_article :  806
+all :  8844
+simple :  26 stand :  31
+flushing to file ... Absolute_zero  count_per_article :  360
+all :  9204
+simple :  24 stand :  15
+flushing to file ... Academy_Award_for_Best_Picture_(1930s)  count_per_article :  4914
+all :  14118
+simple :  54 stand :  91
+flushing to file ... Academy_Award_for_Best_Picture_(1950s)  count_per_article :  2862
+all :  16980
+simple :  54 stand :  53
+flushing to file ... Accent  count_per_article :  1215
+all :  18195
+simple :  81 stand :  15
+flushing to file ... Accession_of_Romania_to_the_European_Union  count_per_article :  114
+all :  18309
+simple :  19 stand :  6
+flushing to file ... Acherontia_atropos  count_per_article :  3220
+all :  21529
+simple :  46 stand :  70
+flushing to file ... Actor  count_per_article :  1740
+all :  23269
+simple :  58 stand :  30
+flushing to file ... Adolf_von_Henselt  count_per_article :  576
+all :  23845
+simple :  72 stand :  8
+flushing to file ... Adrian_Lowe  count_per_article :  6
+all :  23851
+simple :  2 stand :  3
+flushing to file ... Advaita_Vedanta  count_per_article :  2090
+all :  25941
+simple :  110 stand :  19
+flushing to file ... Aegyptosaurus  count_per_article :  117
+all :  26058
+simple :  9 stand :  13
+flushing to file ... Aemilianus  count_per_article :  280
+all :  26338
+simple :  35 stand :  8
+flushing to file ... Aerospace_engineering  count_per_article :  735
+all :  27073
+simple :  105 stand :  7
+flushing to file ... African_elephant  count_per_article :  928
+all :  28001
+simple :  32 stand :  29
+flushing to file ... Agathis  count_per_article :  231
+all :  28232
+simple :  21 stand :  11
+flushing to file ... Akilattirattu_Ammanai  count_per_article :  896
+all :  29128
+simple :  64 stand :  14
+flushing to file ... Alchemy  count_per_article :  5560
+all :  34688
+simple :  278 stand :  20
+flushing to file ... Alcina  count_per_article :  1425
+all :  36113
+simple :  57 stand :  25
+flushing to file ... Aldeburgh_Festival  count_per_article :  644
+all :  36757
+simple :  28 stand :  23
+flushing to file ... Alex_Chernov  count_per_article :  360
+all :  37117
+simple :  20 stand :  18
+flushing to file ... Alexander_the_Great  count_per_article :  5174
+all :  42291
+simple :  398 stand :  13
+flushing to file ... All_For_Latvia!  count_per_article :  170
+all :  42461
+simple :  17 stand :  8
+flushing to file ... Alphonse_Mucha  count_per_article :  646
+all :  43107
+simple :  38 stand :  17
+flushing to file ... American_Lacrosse_Conference  count_per_article :  80
+all :  43187
+simple :  8 stand :  10
+flushing to file ... American_basketball_at_the_Olympics  count_per_article :  627
+all :  43814
+simple :  33 stand :  19
+flushing to file ... Andrew_Huxley  count_per_article :  352
+all :  44166
+simple :  32 stand :  11
+flushing to file ... Angers  count_per_article :  2900
+all :  47066
+simple :  116 stand :  25
+flushing to file ... Anniston,_Alabama  count_per_article :  270
+all :  47336
+simple :  54 stand :  5
+flushing to file ... Anthony_Wagner  count_per_article :  270
+all :  47606
+simple :  45 stand :  6
+flushing to file ... Aquarius_(sports_drink)  count_per_article :  96
+all :  47702
+simple :  16 stand :  6
+flushing to file ... Archivist  count_per_article :  408
+all :  48110
+simple :  68 stand :  6
+flushing to file ... Armed_Forces_of_the_Russian_Federation  count_per_article :  1495
+all :  49605
+simple :  115 stand :  13
+flushing to file ... Arovell_Verlag  count_per_article :  144
+all :  49749
+simple :  12 stand :  12
+flushing to file ... Arrangement_(music)  count_per_article :  1860
+all :  51609
+simple :  60 stand :  31
+flushing to file ... Arsenic_triiodide  count_per_article :  96
+all :  51705
+simple :  8 stand :  12
+flushing to file ... Ashley_Tisdale  count_per_article :  1072
+all :  52777
+simple :  67 stand :  16
+flushing to file ... Ashtown_Castle  count_per_article :  96
+all :  52873
+simple :  8 stand :  12
+flushing to file ... Aspen  count_per_article :  589
+all :  53462
+simple :  31 stand :  19
+flushing to file ... Atrax  count_per_article :  568
+all :  54030
+simple :  71 stand :  8
+flushing to file ... Australia_national_football_team  count_per_article :  12095
+all :  66125
+simple :  295 stand :  41
+all :  67853
+flushing to file ... Azuki_bean  count_per_article :  1728
