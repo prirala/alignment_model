@@ -4,6 +4,7 @@ Created on Mon Nov 21 23:26:53 2016
 
 @author: iralp
 """
+#Calculates the precision,recall,fscores for the alignments found
 
 import pandas as pd
 from copy import deepcopy
